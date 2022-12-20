@@ -9,4 +9,4 @@ Repositório dedicado ao projeto da disciplina de Análise e Projeto de Sistemas
   <li> Pedro Henrique F Cardoso dos Santos (phfcs) </li>
 </ul>
 
-<a href="https://github.com/jguilhermepaiva/ProjetoAPS/blob/main/Entrega%201/Primeira%20entrega.pdf" alt=""> Escopo do projeto e Casos de uso </a>
+<a href="https://github.com/jguilhermepaiva/ProjetoAPS/blob/main/Entrega%201/Primeira%20entrega.pdf" alt="" target="_blank"> Escopo do projeto e Casos de uso </a>

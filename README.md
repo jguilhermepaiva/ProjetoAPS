@@ -8,3 +8,5 @@ Repositório dedicado ao projeto da disciplina de Análise e Projeto de Sistemas
   <li> Matheus Marinho (login) </li>
   <li> Pedro Henrique F Cardoso dos Santos (phfcs) </li>
 </ul>
+
+<a href="https://github.com/jguilhermepaiva/ProjetoAPS/blob/main/Entrega%201/Primeira%20entrega.pdf" alt=""> Escopo do projeto e Casos de uso </a>

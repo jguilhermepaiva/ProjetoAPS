@@ -149,7 +149,7 @@ export class EstoqueLogadoComponent implements OnInit
       if(result.event=="sim"){
         this.estoqueService.delete(produto.id).subscribe(
           data=>
-            this.openSnackBar('Produto deletado com sucesso! Atualizando Db...', ''), error =>{
+            this._snackBar.open('Produto deletado com sucesso! Atualizando Db...', '', {duration: 5000}), error =>{
               this._snackBar.open("Não conseguiu Deletar o produto", "Entendido");
             }
           );

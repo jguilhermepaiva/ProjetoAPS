@@ -74,13 +74,14 @@ export class ModalComponent implements OnInit {
       this._snackBar.open("Não conseguiu cadastrar o produto", "Entendido");
     });
     }
-    setTimeout(() => { this.router.navigate([''], {relativeTo:this.route}); }, 3000);
 
+    setTimeout(() => { this.router.navigate([''], {relativeTo:this.route}); }, 3000);
+    setTimeout(() => { this.router.navigate(['estoque/logado'], {relativeTo:this.route}); }, 3000)
 
   }
 
   onCancel(){
-    this.router.navigate([''], {relativeTo:this.route});
+    this.router.navigate(['estoque/logado'], {relativeTo:this.route});
   }
   getErrorMessage(fieldName: string){
     const field = this.form.get(fieldName);

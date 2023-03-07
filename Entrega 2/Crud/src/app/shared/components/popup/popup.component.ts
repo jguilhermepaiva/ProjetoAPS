@@ -1,5 +1,6 @@
 import { Component, Inject } from '@angular/core';
 import { MatDialog, MatDialogRef, MAT_DIALOG_DATA } from '@angular/material/dialog';
+import { ActivatedRoute, Router } from '@angular/router';
 import { __values } from 'tslib';
 
 @Component({
@@ -14,6 +15,8 @@ export class PopupComponent {
   tempo : string="";
   value: boolean = false;
   constructor ( public dialogRef: MatDialogRef<PopupComponent>,
+    private router: Router,
+    private route: ActivatedRoute,
     public dialog: MatDialog,
     @Inject(MAT_DIALOG_DATA) public data: any
     ){
@@ -53,6 +56,9 @@ openPopup(enterAnimationDuration: string, exitAnimationDuration: string) {
 }
 onClick(){
   this.dialogRef.close({event:'sim'});
+  setTimeout(() => { this.router.navigate([''], {relativeTo:this.route}); }, 3000)
+  setTimeout(() => { this.router.navigate(['estoque/logado'], {relativeTo:this.route}); }, 3000)
+
 }
 }
 

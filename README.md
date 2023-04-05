@@ -10,3 +10,5 @@ Repositório dedicado ao projeto da disciplina de Análise e Projeto de Sistemas
 </ul>
 
 <a href="https://github.com/jguilhermepaiva/ProjetoAPS/blob/main/Entrega%201/Primeira%20entrega.pdf" alt="" target="_blank" rel="noreferrer"> Escopo do projeto e Casos de uso </a>
+
+![image](https://user-images.githubusercontent.com/17653999/230161327-e23b2ea0-9fde-4147-8612-7439c40952ac.png)

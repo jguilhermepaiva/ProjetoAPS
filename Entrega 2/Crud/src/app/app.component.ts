@@ -10,15 +10,11 @@ import { SocialAuthService } from '@abacritt/angularx-social-login';
 
 
 export class AppComponent {
-  title = 'APS-CRUD';
+  title = 'loja-CRUD';
   user: any;
   loggedIn: any
   constructor(private router: Router,private route: ActivatedRoute, private authService: SocialAuthService){
-
-
   }
-
-
   ngOnInit() {
     this.authService.authState.subscribe((user) => {
       this.user = user;
@@ -27,7 +23,6 @@ export class AppComponent {
         this.router.navigate(["/estoque/logado"], {relativeTo :this.route});
 
       }
-      console.log(this.loggedIn)
     });
   }
   estoqueLink(){
@@ -38,9 +33,15 @@ export class AppComponent {
       this.router.navigate(["/estoque"], {relativeTo :this.route});
     }
   }
-  frasesLink(){
-    this.router.navigate(["/frases"], {relativeTo :this.route});
+  vitrineLink(){
+
+      this.router.navigate(["/vitrine"], {relativeTo :this.route});
   }
+
+  comprasLink(){
+
+    this.router.navigate(["/compras"], {relativeTo :this.route});
+}
 }
 
 

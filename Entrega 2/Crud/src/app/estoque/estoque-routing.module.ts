@@ -11,6 +11,8 @@ import { EstoqueLogadoComponent } from './containers/estoqueLogado/estoqueLogado
 const routes: Routes = [
   {path:'',component: EstoqueComponent},
   {path:'estoque/logado',component: EstoqueLogadoComponent},
+  {path:'edit/:id',component: EstoqueComponent},
+  {path:'estoque/logado',component: EstoqueLogadoComponent},
   {path:'logado/edit/:id',component: EstoqueLogadoComponent},
   {path:'relatorio/categorias',component: RelatorioCategoriasComponent},
   {path:'relatorio/produtos',component: RelatorioProdutosComponent},

@@ -1,0 +1,17 @@
+server:
+  port: 8084
+  
+spring:
+  application:
+    name: gateway
+  cloud:
+    gateway:
+      routes:
+        - id: compras
+          uri: lb://compras
+          predicates:
+            - Path=/compras/**
+        - id: produtos
+          uri: lb://produtos
+          predicates:
+            - Path=/produtos/**

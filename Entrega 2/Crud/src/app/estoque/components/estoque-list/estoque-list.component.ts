@@ -1,7 +1,6 @@
 
 import { Router, ActivatedRoute } from '@angular/router';
 import { Component, EventEmitter, Input, Output } from '@angular/core';
-
 import { MatDialog } from '@angular/material/dialog';
 import { ModalComponent } from '../../containers/modal/modal.component';
 import { Page } from 'app/shared/model/page';

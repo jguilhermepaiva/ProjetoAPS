@@ -1,0 +1,14 @@
+
+
+java:S1130$"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(–ĞªÖ
+
+java:S1130)"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(¤û±×
+N
+java:S1128"3Remove this unused import 'api.aps.domain.Produto'.(šÙŸ’ùÿÿÿÿ
+9
+java:S1128	"Remove this duplicated import.(õĞ»õøÿÿÿÿ
+9
+java:S1128
+"Remove this duplicated import.(õĞ»õøÿÿÿÿ
+`
+java:S1128"ERemove this unused import 'org.springframework.data.domain.PageImpl'.(è”—şÿÿÿÿ

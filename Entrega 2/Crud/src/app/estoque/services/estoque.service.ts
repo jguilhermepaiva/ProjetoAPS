@@ -13,7 +13,7 @@ import { Produto } from '../model/produto';
 })
 export class EstoqueService {
 
-  private readonly API = 'api/produtos';
+  private readonly API = 'apiProdutos/produtos';
   page!: Page;
 
   constructor(private httpClient: HttpClient) { }
@@ -44,8 +44,6 @@ export class EstoqueService {
   findById(id: number){
     return this.httpClient.get<Produto>(`${this.API}/${id}`);
   }
-
-
 
   delete(id: number){
     return this.httpClient.delete(`${this.API}/${id}`);

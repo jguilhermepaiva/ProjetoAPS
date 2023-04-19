@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d3a51a9-67e3-4eb7-8ad1-22fc17152846" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__ch_qos_logback_logback_core_1_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_14_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_14_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_14_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_14_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_14_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_14_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__com_h2database_h2_2_1_214.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__com_mysql_mysql_connector_j_8_0_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_4_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__com_zaxxer_HikariCP_5_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__io_micrometer_micrometer_commons_1_10_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__io_micrometer_micrometer_observation_1_10_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__jakarta_inject_jakarta_inject_api_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_4_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_12_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__net_minidev_json_smart_2_4_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_10_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_10_1_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_10_1_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_10_1_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_assertj_assertj_core_3_23_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_eclipse_angus_angus_activation_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_core_4_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_4_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_glassfish_jaxb_txw2_4_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_6_0_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_hibernate_orm_hibernate_core_6_1_6_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_8_0_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_jboss_jandex_2_4_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_5_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_mapstruct_mapstruct_1_5_3_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_mockito_mockito_core_4_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_projectlombok_lombok_1_18_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_projectlombok_lombok_mapstruct_binding_0_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_2_0_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_boot_spring_boot_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_data_spring_data_commons_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_spring_aop_6_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_spring_aspects_6_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_spring_beans_6_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_spring_context_6_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_spring_core_6_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_spring_expression_6_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_spring_jcl_6_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_spring_jdbc_6_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_spring_orm_6_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_spring_test_6_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_spring_tx_6_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_spring_web_6_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_springframework_spring_webmvc_6_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/libraries/Maven__org_yaml_snakeyaml_1_33.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/APS-API.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/AplicationStart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/adapter/CepAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/configurer/ApsWebMvcConfigurer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/configurer/LogapWebMvcConfigurer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/controller/CompraController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/controller/ProdutoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/domain/Cep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/domain/Compra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/domain/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/exception/BadRequestException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/exception/BadRequestExceptionDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/exception/ConstraintViolationExceptionDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/exception/ExceptionDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/exception/ValidationExceptionDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/facade/CompraFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/facade/ProdutoFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/handler/RestExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/mapper/CompraMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/mapper/ProdutoMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/queries/ProdutoComqtdDisponivelQuery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/repository/CompraRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/repository/ProdutoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/requests/CompraPostRequestBody.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/requests/CompraPutRequestBody.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/requests/ProdutoPostRequestBody.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/requests/ProdutoPutRequestBody.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/service/CompraService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/service/ProdutoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/java/api/aps/wrapper/PageableResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/test/java/api/aps/controller/ProdutoControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/test/java/api/aps/integration/ProdutoControllerIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/test/java/api/aps/repository/ProdutoRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/test/java/api/aps/service/ProdutoServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/test/java/api/aps/util/ProdutoCreator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/test/java/api/aps/util/ProdutoPostRequestBodyCreator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/test/java/api/aps/util/ProdutoPutRequestBodyCreator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/src/test/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/AplicationStart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/adapter/CepAdapter$CepService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/adapter/CepAdapter$CompraCepServiceAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/adapter/CepAdapter$ExternalCepService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/adapter/CepAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/configurer/ApsWebMvcConfigurer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/controller/CompraController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/controller/ProdutoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/domain/Cep$CepBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/domain/Cep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/domain/Compra$CompraBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/domain/Compra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/domain/Produto$ProdutoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/domain/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/exception/BadRequestException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/exception/BadRequestExceptionDetails$BadRequestExceptionDetailsBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/exception/BadRequestExceptionDetails$BadRequestExceptionDetailsBuilderImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/exception/BadRequestExceptionDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/exception/ConstraintViolationExceptionDetails$ConstraintViolationExceptionDetailsBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/exception/ConstraintViolationExceptionDetails$ConstraintViolationExceptionDetailsBuilderImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/exception/ConstraintViolationExceptionDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/exception/ExceptionDetails$ExceptionDetailsBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/exception/ExceptionDetails$ExceptionDetailsBuilderImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/exception/ExceptionDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/exception/ValidationExceptionDetails$ValidationExceptionDetailsBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/exception/ValidationExceptionDetails$ValidationExceptionDetailsBuilderImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/exception/ValidationExceptionDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/facade/CompraFacade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/facade/ProdutoFacade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/handler/RestExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/mapper/CompraMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/mapper/CompraMapperImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/mapper/ProdutoMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/mapper/ProdutoMapperImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/queries/ProdutoComqtdDisponivelQuery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/repository/CompraRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/repository/ProdutoRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/requests/CompraPostRequestBody$CompraPostRequestBodyBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/requests/CompraPostRequestBody.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/requests/CompraPutRequestBody$CompraPutRequestBodyBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/requests/CompraPutRequestBody.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/requests/ProdutoPostRequestBody$ProdutoPostRequestBodyBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/requests/ProdutoPostRequestBody.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/requests/ProdutoPutRequestBody$ProdutoPutRequestBodyBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/requests/ProdutoPutRequestBody.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/service/CompraService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/service/ProdutoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/aps/wrapper/PageableResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/AplicationStart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/configurer/LogapWebMvcConfigurer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/controller/ProdutoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/domain/Produto$ProdutoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/domain/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/exception/BadRequestException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/exception/BadRequestExceptionDetails$BadRequestExceptionDetailsBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/exception/BadRequestExceptionDetails$BadRequestExceptionDetailsBuilderImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/exception/BadRequestExceptionDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/exception/ConstraintViolationExceptionDetails$ConstraintViolationExceptionDetailsBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/exception/ConstraintViolationExceptionDetails$ConstraintViolationExceptionDetailsBuilderImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/exception/ConstraintViolationExceptionDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/exception/ExceptionDetails$ExceptionDetailsBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/exception/ExceptionDetails$ExceptionDetailsBuilderImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/exception/ExceptionDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/exception/ValidationExceptionDetails$ValidationExceptionDetailsBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/exception/ValidationExceptionDetails$ValidationExceptionDetailsBuilderImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/exception/ValidationExceptionDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/handler/RestExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/mapper/ProdutoMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/mapper/ProdutoMapperImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/queries/ProdutoComqtdDisponivelQuery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/repository/ProdutoRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/requests/ProdutoPostRequestBody$ProdutoPostRequestBodyBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/requests/ProdutoPostRequestBody.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/requests/ProdutoPutRequestBody$ProdutoPutRequestBodyBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/requests/ProdutoPutRequestBody.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/service/ProdutoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/api/logap/wrapper/PageableResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/generated-sources/annotations/api/logap/mapper/ProdutoMapperImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/jib-cache/layers/563a8b191e73b644fc6d0924676ba8ee55dabb8e1328f3dcd6f1d3a1665af101/e1e427ec8e5f1ecfcaf64a3d2804e913ed27ec42a0437530e5da52d0550991b2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/jib-cache/layers/c3c5228bd87ad84dba6080ac5975b820749b7b63f5ef84b27fade74dfbbda871/37d9fd9af3ef8f660857e8b94aa8a214c6cdf2ad8d9ac415c2ad75a69a575dec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/jib-cache/layers/cff983d72bc1ddf6d0caded767ae72ddfbd3683e46ca9811dcd4a2576cdc2171/05380664657d13766ec1e556172257c0b479451e42cf7ab152b390706acf2ebb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/jib-cache/layers/ee4ffea577e1485d532c4679a202ceb940a15b3f83c45d77412ce89ab1090cd2/40b40087a2e79c40bd08263c79c41759fa15660a4359b561040540ead585ec77" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/jib-cache/selectors/00139c9d762f27869c096aa043be71e5d492397f9cb10289b8914ee6a425bfd3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/jib-cache/selectors/3916aaf2bf3c9b0876b5c2facdd7bb391d2a659a1b6c793006f10307f18d3437" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/jib-cache/selectors/8183dfbec27d7aed9ae0e82dbda0ccca6515698ea2a25b2c5f817d9d8e617bd3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/jib-cache/selectors/85aa2082b16df1cbcf9c4a3b88989ef1b8070f7a7f12d81b771e1e0f94a1271e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/jib-cache/selectors/deb6f5abe5a6211168d354d0fe3ab40dec73ffd34b38d84b6aee4229f46cfc3a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/jib-cache/selectors/e1c102e37a3e3823b07fb90a99912dbffe479e783ace58078545d04dae04c682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/jib-cache/selectors/f7368071ea0bfdee2b33d735b2ad6620e9ced86559efdfa1af48b7faa189a024" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/jib-image.digest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/jib-image.id" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/jib-image.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/test-classes/api/logap/controller/ProdutoControllerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/test-classes/api/logap/integration/ProdutoControllerIT$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/test-classes/api/logap/integration/ProdutoControllerIT$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/test-classes/api/logap/integration/ProdutoControllerIT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/test-classes/api/logap/repository/ProdutoRepositoryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/test-classes/api/logap/service/ProdutoServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/test-classes/api/logap/util/ProdutoCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/test-classes/api/logap/util/ProdutoPostRequestBodyCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../API/target/test-classes/api/logap/util/ProdutoPutRequestBodyCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2L1CEyKrl2KFObGeJxE97MMDCYD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/matheusmarinho/Downloads/codes/Others/APS/Crud-APS/APICompras/src",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d3a51a9-67e3-4eb7-8ad1-22fc17152846" name="Changes" comment="" />
+      <created>1675029093987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675029093987</updated>
+      <workItem from="1675029095085" duration="8000" />
+      <workItem from="1675029240900" duration="42000" />
+      <workItem from="1681678955997" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

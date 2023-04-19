@@ -153,9 +153,7 @@ export class EstoqueLogadoComponent implements OnInit
               this._snackBar.open("Não conseguiu Deletar o produto", "Entendido");
             }
           );
-
       }
-
     });
 
 

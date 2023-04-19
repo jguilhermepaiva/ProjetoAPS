@@ -1,7 +1,6 @@
 
- <mat-toolbar color="primary">
+<mat-toolbar color="primary">
   <span >Relatório</span>
-
 
 </mat-toolbar>
 
@@ -13,15 +12,11 @@
       <span class="example-spacer"></span>
     </mat-toolbar>
 
-
     <mat-card-content>
       <div *ngIf="lista | async as lista; else loading">
 
-
       <mat-table [dataSource]="lista" >
 
-
-        <!-- Weight Column -->
         <ng-container matColumnDef="categorias">
           <mat-header-cell  *matHeaderCellDef> Categoria </mat-header-cell>
           <mat-cell  *matCellDef="let produto"> {{produto[0]}}
@@ -31,8 +26,6 @@
           </mat-cell>
         </ng-container>
 
-
-        <!-- Symbol Column -->
         <ng-container matColumnDef="qtdTotal">
           <mat-header-cell  *matHeaderCellDef> Quantidade total de mercadorias </mat-header-cell>
           <mat-cell  *matCellDef="let produto"> {{produto[1]}} </mat-cell>
@@ -49,26 +42,16 @@
 
       </ng-template>
 
-
-
-
-
     </mat-card-content>
 
     <mat-paginator [length]="length" pageSize=10
     (page)="getPaginatorData($event)" [pageSizeOptions]="[10, 20, 30]"
     showFirstLastButtons="false">
-</mat-paginator>
-
-
-
-
-
+    </mat-paginator>
 
     </div>
 
-
-</mat-card-content>
+  </mat-card-content>
 
 </mat-card>
 

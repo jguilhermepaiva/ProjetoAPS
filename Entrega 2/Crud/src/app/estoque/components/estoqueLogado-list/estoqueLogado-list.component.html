@@ -1,15 +1,10 @@
 <mat-table  [dataSource]="estoque">
 
-          <!--- Note that these columns can be defined in any order.
-                The actual rendered columns are set as a property on the row definition" -->
-
-          <!-- Position Column -->
           <ng-container matColumnDef="nome">
             <mat-header-cell  *matHeaderCellDef> Nome </mat-header-cell>
             <mat-cell  *matCellDef="let produto"> {{produto.nome}} </mat-cell>
           </ng-container>
 
-          <!-- Name Column -->
           <ng-container matColumnDef="valorVenda">
             <mat-header-cell  *matHeaderCellDef> Valor de venda </mat-header-cell>
             <mat-cell  *matCellDef="let produto"> {{produto.valorVenda}} </mat-cell>
@@ -20,7 +15,6 @@
             <mat-cell  *matCellDef="let produto"> {{produto.qtdDisponivel}} </mat-cell>
           </ng-container>
 
-          <!-- Weight Column -->
           <ng-container matColumnDef="categoria">
             <mat-header-cell  *matHeaderCellDef> Categoria </mat-header-cell>
             <mat-cell  *matCellDef="let produto"> {{produto.categoria}}
@@ -30,7 +24,6 @@
             </mat-cell>
           </ng-container>
 
-           <!-- Weight Column -->
            <ng-container  matColumnDef="acoes">
             <mat-header-cell *matHeaderCellDef="" class="acao-column">
               <button  (click)="onAdd()" mat-mini-fab color="accent" aria-label="Adicionar um produto">
@@ -51,7 +44,6 @@
 
           </ng-container>
 
-          <!-- Symbol Column -->
           <ng-container matColumnDef="fornecedor">
             <mat-header-cell  *matHeaderCellDef> Fornecedor </mat-header-cell>
             <mat-cell  *matCellDef="let produto"> {{produto.fornecedor}} </mat-cell>

@@ -17,3 +17,6 @@ CASO DE USO RUP
 
 CASO DE USO SOA (ATUALIZADO)
 ![image](https://user-images.githubusercontent.com/17653999/232322504-231de826-1fa9-4f02-a12c-61d25aef4a5d.png)
+
+APRESENTAÇÂO SOA
+https://www.canva.com/design/DAFge1xRgSs/CYC1v9tGjUSc90IC5hclng/edit?utm_content=DAFge1xRgSs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton

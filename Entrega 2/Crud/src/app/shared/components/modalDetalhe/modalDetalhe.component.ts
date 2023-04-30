@@ -43,7 +43,6 @@ export class ModalDetalheComponent implements OnInit {
     for (let id of ids) {
       this.service.findById(id).subscribe((produto) => {
         this.produtos.push(produto);
-        console.log(this.produtos);
       });
     }
   }

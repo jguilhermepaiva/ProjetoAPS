@@ -5,6 +5,7 @@ import { ErrorDialogComponent } from './components/error-dialog/error-dialog.com
 import { CategoriaPipe } from './pipes/categoria.pipe';
 import { ModalComponent } from 'app/estoque/containers/modal/modal.component';
 import { PopupComponent } from './components/popup/popup.component';
+import { ModalDetalheComponent } from './components/modalDetalhe/modalDetalhe.component';
 
 
 
@@ -13,6 +14,7 @@ import { PopupComponent } from './components/popup/popup.component';
   declarations: [
     ErrorDialogComponent,
     CategoriaPipe,
+    ModalDetalheComponent,
     ModalComponent,
     PopupComponent
   ],
@@ -23,7 +25,9 @@ import { PopupComponent } from './components/popup/popup.component';
   exports:[
     ErrorDialogComponent,
     PopupComponent,
-    CategoriaPipe
+    CategoriaPipe,
+    ModalComponent,
+    ModalDetalheComponent
   ]
 })
 export class SharedModule { }

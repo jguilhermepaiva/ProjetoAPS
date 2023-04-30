@@ -2,7 +2,7 @@ package api.aps.controller;
 
 import api.aps.domain.Cep;
 import api.aps.domain.Compra;
-import api.aps.domain.Produto;
+
 import api.aps.facade.CompraFacade;
 import api.aps.requests.CompraPostRequestBody;
 import api.aps.requests.CompraPutRequestBody;

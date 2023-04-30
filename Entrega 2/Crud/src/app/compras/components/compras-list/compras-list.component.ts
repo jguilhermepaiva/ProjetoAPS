@@ -15,7 +15,7 @@ import { ProdutosSelecionadosService } from 'app/shared/services/produtos-seleci
 export class ComprasListComponent {
   @Input() compras: Compra[]=[];
   @Output() add = new EventEmitter(false);
-  @Output() edit = new EventEmitter(false);
+  @Output() detail = new EventEmitter(false);
   @Output() remove = new EventEmitter(false);
   @Input() loggedIn: any;
   page: Page | undefined;
@@ -24,7 +24,7 @@ export class ComprasListComponent {
   horizontalPosition: MatSnackBarHorizontalPosition = 'center';
   verticalPosition: MatSnackBarVerticalPosition = 'bottom';
 
-  readonly displayedColumns = ['valorTotal','quantidade'];
+  readonly displayedColumns = ['valorTotal','quantidade','acoes'];
 
   constructor(
     public dialog: MatDialog,
@@ -36,17 +36,10 @@ export class ComprasListComponent {
   }
 
 
-  onAdd(){
-    this.add.emit(true);
+  onDetail(compra: Compra){
+    this.detail.emit(compra);
   }
 
-  onEdit(produto: Produto){
-    this.edit.emit(produto);
-  }
-
-  onRemove(produto: Produto){
-    this.remove.emit(produto);
-  }
 
   openSnackBar(aviso: string, recado: string) {
     this._snackBar.open(aviso, recado, {

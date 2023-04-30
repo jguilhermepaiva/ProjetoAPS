@@ -29,12 +29,8 @@
     </mat-header-cell>
 
     <mat-cell *matCellDef="let compra" class="acao-column-2">
-      <button  (click)="onEdit(compra)"mat-icon-button color="primary" aria-label="Editar um compra">
-        <mat-icon>edit</mat-icon>
-      </button>
-
-      <button  (click)="onRemove(compra)" mat-icon-button color="warn" aria-label="Remover um compra">
-        <mat-icon>delete</mat-icon>
+      <button  (click)="onDetail(compra)"mat-icon-button color="accent" aria-label="Editar um compra">
+        <mat-icon>search</mat-icon>
       </button>
 
     </mat-cell>

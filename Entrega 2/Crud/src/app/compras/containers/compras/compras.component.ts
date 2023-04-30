@@ -1,10 +1,10 @@
-import { Component, ViewChild } from '@angular/core';
+import { Component, OnInit, ViewChild } from '@angular/core';
 import { MatDialog } from '@angular/material/dialog';
 import { MatPaginator, PageEvent } from '@angular/material/paginator';
 import { MatSnackBar, MatSnackBarHorizontalPosition, MatSnackBarVerticalPosition } from '@angular/material/snack-bar';
 import { ActivatedRoute, Router } from '@angular/router';
 import { ComprasService } from 'app/compras/services/compras.service';
-import { ModalComponent } from 'app/estoque/containers/modal/modal.component';
+import { ModalDetalheComponent } from 'app/shared/components/modalDetalhe/modalDetalhe.component';
 import { PopupComponent } from 'app/shared/components/popup/popup.component';
 import { Compra } from 'app/shared/model/compra';
 import { Page } from 'app/shared/model/page';
@@ -16,7 +16,7 @@ import { Observable, catchError, map, of, startWith, switchMap } from 'rxjs';
   templateUrl: './compras.component.html',
   styleUrls: ['./compras.component.scss']
 })
-export class ComprasComponent {
+export class ComprasComponent implements OnInit {
 
   @ViewChild(MatPaginator) paginator!: MatPaginator;
   lowValue: number = 0;
@@ -71,8 +71,20 @@ export class ComprasComponent {
     this.reload();
     return event;
   }
+  ngOnInit(): void {
 
+  }
 
+  onDetail(compra:Compra){
+
+    this.dialog.open(ModalDetalheComponent,{
+      data: {
+        route: this.route,
+        dataValue: "Detalhes da compra",
+        compra: compra,
+      }});
+
+  }
   reload(){
     this.compras$ = this.comprasService.list(this.highValue,this.lowValue)
     .pipe(

@@ -11,7 +11,7 @@
         <span class="example-spacer"></span>
       </mat-toolbar>
 
-      <app-compras-list *ngIf="compras$ | async as compras; else loading" [compras]="compras">
+      <app-compras-list (detail)="onDetail($event)" *ngIf="compras$ | async as compras; else loading" [compras]="compras">
 
       </app-compras-list>
 

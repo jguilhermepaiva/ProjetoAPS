@@ -1,0 +1,19 @@
+<div class="column-flex">
+  <h1 mat-dialog-title>{{valor}}</h1>
+  <div mat-dialog-content class="product-list">
+    <div *ngFor="let produto of produtos" class="product-item">
+      <mat-label>Nome</mat-label>
+      <p>{{produto.nome}}</p>
+      <mat-label>Valor do produto</mat-label>
+      <p>{{produto.valorVenda}}</p>
+      <mat-label>Categoria</mat-label>
+      <p>{{produto.categoria}}</p>
+      <mat-label>Fornecedor</mat-label>
+      <p>{{produto.fornecedor}}</p>
+    </div>
+  </div>
+  <div mat-dialog-actions>
+    <span class="example-spacer"></span>
+    <div><button mat-raised-button mat-dialog-close (click)="onCancel()">Cancelar</button></div>
+  </div>
+</div>

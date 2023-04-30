@@ -125,7 +125,12 @@ export class CarrinhoComponent implements OnInit{
       const selectedProdutos = this.sharedService.getSelectedProdutos();
       const produtosIds = selectedProdutos.map(p => p.produto.id);
       const quantidade = selectedProdutos.reduce((total, p) => total + p.quantidade, 0).toString();
-      const valorTotal = selectedProdutos.reduce((total, p) => total + (p.quantidade * parseFloat(p.produto.valorVenda)), 0).toFixed(2);
+      const valorTotal = selectedProdutos.reduce((total, p) => {
+        const preco = p.produto.valorVenda.replace(/[^0-9,]/g, '').replace(',', '.');
+        return total + p.quantidade * parseFloat(preco);
+      }, 0).toLocaleString('pt-BR', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+
+
 
       const compra: Compra = {
         id: 0,
@@ -133,6 +138,7 @@ export class CarrinhoComponent implements OnInit{
         valorTotal: valorTotal,
         produtos: produtosIds
       };
+
 
       this.comprasService.cep(cepData).subscribe(
         data => {

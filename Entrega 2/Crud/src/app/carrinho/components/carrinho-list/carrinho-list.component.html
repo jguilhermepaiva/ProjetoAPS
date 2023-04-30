@@ -7,7 +7,7 @@
 
   <ng-container matColumnDef="valorVenda">
     <mat-header-cell *matHeaderCellDef> Preço</mat-header-cell>
-    <mat-cell *matCellDef="let produto"> {{produto.produto.valorVenda}} </mat-cell>
+    <mat-cell *matCellDef="let produto">R$ {{produto.produto.valorVenda}} </mat-cell>
   </ng-container>
 
   <ng-container matColumnDef="qtdDisponivel">
